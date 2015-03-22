@@ -1,7 +1,7 @@
 # Malkocoglu
 This project python base attack tool. But this should be Gui application. 
 
-You can try different type of attacks this tool. 
+You can try different type of attacks this tool. Fist i can try pygtk.  
 
 Dos/DDos,
 Fingerprinting,
@@ -10,7 +10,9 @@ Ping Flood,
 Bypassing İds/İps,
 Exploit Network Sockets,
 Network Mapping,
-
+Logging Doing Attacks
+Finding open ports,
+... +
 
 
 # And How we can improve this project? May be you can help me? İf you have got any idea contact me. 
