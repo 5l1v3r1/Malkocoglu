@@ -12,11 +12,14 @@ Exploit Network Sockets,
 Network Mapping,
 Logging Doing Attacks,
 Finding open ports,
+Multiple web application attacks techniques( xss, sqli, csrf, lfı)
+Information Gathering
 
 
 ... +
 
 
-# And How we can improve this project? May be you can help me? İf you have got any idea contact me. 
+# And How we can improve this project? 
+#İf you have got any idea contact me. 
 
 # Knowledge is power!
